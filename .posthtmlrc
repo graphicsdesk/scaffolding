@@ -7,12 +7,83 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "All seven West Harlem properties named in city lawsuits against landlords Alma Realty Corp. and Empire Management America Corp. contain deteriorating façades and unsafe sidewalk sheds, the suit charges."
+          },
+          {
+            "type": "text",
+            "value": "New York City Mayor Eric Adams in early January announced two city lawsuits charging that thousands of building code violations in Upper Manhattan, Brooklyn, and Queens have resulted in what the City called “dangerous conditions” for residents ranging from poorly maintained elevators to illegal renovations."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/city-news/2023/01/23/city-sues-landlords-of-seven-west-harlem-apartment-buildings-for-dangerous-conditions/\"><i>City sues landlords of seven West Harlem apartment buildings for ‘dangerous conditions’</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Sidewalk sheds are temporary structures that protect passersby from the hazards associated with construction sites and buildings requiring maintenance. These protective structures are required for any building under construction or demolition in New York City.  Under Local Law 11, also known as the Façade Inspection & Safety Program, the requirement for sidewalk sheds was also extended to projects undergoing inspection."
+          },
+          {
+            "type": "text",
+            "value": "“Sidewalk sheds are a necessity in our city to protect New Yorkers from falling construction debris and buildings that have been allowed to fall into disrepair,” Ryan Degan, deputy press secretary of the New York City Department of Buildings, wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Landlords and the private contractors that they hire are left entirely in charge of sidewalk shed maintenance. Alma Realty has previously faced similar complaints and suits from the Department of Housing Preservation and Development but have failed to resolve the issues as of Jan. 6, according to the suit. Alma Realty and Empire Management did not respond to requests for comment."
+          },
+          {
+            "type": "text",
+            "value": "Michael Gonzalez, a resident of 509 Cathedral Parkway—one of the properties involved in the lawsuit—said he felt bothered by his landlord’s nonchalant attitude towards the condition and construction progress of the building."
+          },
+          {
+            "type": "text",
+            "value": "“Especially as the rent isn’t cheap or anything,” Gonzalez said. “It’s a tricky place.”"
+          },
+          {
+            "type": "text",
+            "value": "Among other issues, Empire Management is facing accusations for its failure to erect a sidewalk shed or similar protections for this property in light of its unsafe façade and has also failed to file mandatory façade inspection reports on multiple occasions, according to the suit."
+          },
+          {
+            "type": "text",
+            "value": "Since the lawsuit, Gonzalez said that the corporation has implemented a sidewalk shed at 509 Cathedral Parkway but continued to prolong the construction period."
+          },
+          {
+            "type": "text",
+            "value": "“I don’t like it,” Gonzalez said. “If it wasn’t for the school being so close, I wouldn’t live here.”"
+          },
+          {
+            "type": "text",
+            "value": "New York City currently has a total of 9,149 registered sidewalk sheds in place—triple the number of sheds in 2000. Two-hundred-thirty-two of these sheds are located in Community Board 9, which covers Morningside Heights, Manhattanville, and Hamilton Heights."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scaffolding.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Following the passing of Grace Gold, a Barnard first-year who was hit and killed by a falling piece of loose masonry in 1979, FISP expanded to require all buildings taller than six stories to undergo a façade and appearance inspection every five years. More than half of CB9’s sidewalk sheds are in accordance with this inspection requirement."
+          },
+          {
+            "type": "text",
+            "value": "“When properly maintained, sidewalk sheds create safer streets for pedestrians and workers alike,” Degan wrote in a statement to the Spectator. “Since 2018, three pedestrians in NYC were killed by falling building debris. In that same period of time, no pedestrians have died from a sidewalk shed.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Staff Writer Uriel Lopez can be contacted at </i><a href=\"mailto:uriel.lopez@columbiaspectator.com\"><i>uriel.lopez@columbiaspectator.com.</i></a><i> </i>"
+          }
+        ],
+        "headline": "City lawsuits against West Harlem landlords charge unsafe sidewalk sheds",
+        "date": "February 3, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Uriel-Lopez/\">Uriel Lopez</a>",
+        "Byline2": "Graphics by Franco Magalhaes",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1OsGZIFx4mp2hiDzDZGXz1ynbS70h2xJPIMFEKx2Fhw8/edit#"
       }
     }
   }
